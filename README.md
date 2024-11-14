@@ -1,9 +1,4 @@
 # CyberSecurityWithPython
-Here’s a sample README file that includes installation instructions, descriptions, and usage information for your cybersecurity projects repository:
-
----
-
-# Simple Cybersecurity Projects in Python
 
 This repository contains a collection of simple, beginner-friendly cybersecurity projects implemented in Python. Each project demonstrates a fundamental concept or tool used in cybersecurity, including network scanning, client-server communication, and banner grabbing.
 
@@ -75,4 +70,3 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 ---
 
-This README should give users a clear idea of what the repository contains and how to set it up. Let me know if you'd like any adjustments!
